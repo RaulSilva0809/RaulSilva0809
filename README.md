@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/raul-fabrizio-silva-uribe-767151191/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Ajay Singh Khaksa" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![RaulSilva0809's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <p align="center">
   <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
