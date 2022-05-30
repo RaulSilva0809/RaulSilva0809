@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- web development worker.
+- Web development worker.
 - Computer systems engineer. 
 - Working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
 - 📫 How to reach me **tecnosis08@gmail.com**
