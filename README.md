@@ -13,7 +13,7 @@
 - 📫 How to reach me **tecnosis08@gmail.com**
 - GitHub Stats
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />
+/*<img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />*/
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSilva0809&layout=compact" alt="RaulSilva0809" />
 
 
