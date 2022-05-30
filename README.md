@@ -17,13 +17,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<hr>
-
 ![](https://hit.yhype.me/github/profile?user_id=39537259)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +30,9 @@
 <a href="https://www.linkedin.com/in/raul-fabrizio-silva-uribe-767151191/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Ajay Singh Khaksa" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+<hr>
+<p align="center">
+  <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<hr>
