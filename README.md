@@ -12,11 +12,10 @@
 - Computer systems engineer. 
 - Working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
 - 📫 How to reach me **tecnosis08@gmail.com**
-<details>
-   -GitHub Stats
+- GitHub Stats
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />
-</details> 
+
 
 ![](https://hit.yhype.me/github/profile?user_id=39537259)
 
