@@ -13,7 +13,7 @@
 - Working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
 - 📫 How to reach me **tecnosis08@gmail.com**
 <details>
-  <summary>:zap: GitHub Stats</summary>
+   -GitHub Stats
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />
 </details> 
