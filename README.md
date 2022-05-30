@@ -12,7 +12,7 @@
 - Working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
 - 📫 How to reach me **tecnosis08@gmail.com**
 - GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />-->
 
 <p align="center">
   <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
