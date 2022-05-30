@@ -14,7 +14,7 @@
 - GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />
 <br>
-
+<br>
 <hr>
  
 <h3 align="center">Connect with me:</h3>
