@@ -15,12 +15,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RaulSilva0809&show_icons=true&theme=radical" alt="RaulSilva0809" />
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/RaulSil78775808" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ajaykhalsa_ak" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/raul-fabrizio-silva-uribe-767151191/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Ajay Singh Khaksa" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-</p>
 
 <hr>
 <p align="center">
